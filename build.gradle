@@ -6,9 +6,4 @@ plugins {
 
 }
 
-repositories {
-    google()
-    mavenCentral()
-
-}
 
